@@ -25,11 +25,10 @@ As a user of the terminal application you will be able to:
 ## Specifications
 | Behavior            | Input                         | Output                        | 
 | ------------------- | ----------------------------- | ----------------------------- |
-| View Business sources | Click on the `BUSINESS` nav | Scrolls the page to the `BUSINESS` section |
+| View Business sources | Click on the `BUSINESS` nav | Scrolls the page to the `BUSINESS` section | View Technology sources | Click on the `TECHNOLOGY` nav | Scrolls the page to the `TECHNOLOGY` section |
 | View Entertainment sources | Click on the `ENTERTAINMENT` nav | Scrolls the page to the `ENTERTAINMENT` section |
-| View Sports sources | Click on the `SPORTS` nav | Scrolls the page to the `SPORTS` section |
+| View Sports sources | Click on the `SPORTS` nav | Scrolls the page to the `SPORTS` section | View Science sources | Click on the `SCIENCE` nav | Scrolls the page to the `SCIENCE` section | View Health sources | Click on the `HEALTH` nav | Scrolls the page to the `HEALTH` section |
 | View Top Headlines Articles | Click on the `Top Headlines` nav | Redirects to a page that displays articles on Top Headlines |
-|
 
 
 
