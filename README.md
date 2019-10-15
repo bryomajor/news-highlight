@@ -1,0 +1,78 @@
+# News Highlight
+
+
+## Description
+News Highlight is a web application that is meant to catch up busy individuals on current affairs happening all over the world.
+The website has the home page, that has a list of all sources of news sorted in categories.
+A user will have to click on `Read More` on a specific source to view artciles on the site
+
+
+## Author
+
+
+* [**Brian Major**](https://github.com/bryomajor)
+
+## Features
+
+
+As a user of the terminal application you will be able to:
+
+1. See all news sources
+2. See articles from a specific source
+3. See the top headlines
+4. See sources depending on the type of news
+
+## Specifications
+| Behavior            | Input                         | Output                        | 
+| ------------------- | ----------------------------- | ----------------------------- |
+| View Business sources | Click on the `BUSINESS` nav | Scrolls the page to the `BUSINESS` section |
+| View Entertainment sources | Click on the `ENTERTAINMENT` nav | Scrolls the page to the `ENTERTAINMENT` section |
+| View Sports sources | Click on the `SPORTS` nav | Scrolls the page to the `SPORTS` section |
+| View Top Headlines Articles | Click on the `Top Headlines` nav | Redirects to a page that displays articles on Top Headlines |
+|
+
+
+
+## Getting started
+### Prerequisites
+* python3.6
+* virtual environment
+* pip
+
+### Cloning
+* In your terminal:
+        
+        $ git clone https://github.com/bryomajor/news-highlight.git
+        $ cd news-highlight
+
+## Running the Application
+* Edit the start.sh file with your api key from the news.org website
+* To run the application, in your terminal:
+
+        $ chmod a+x start.sh
+        $ ./start.sh
+        
+## Testing the Application
+* To run the tests for the class file:
+
+        $ python3.6 manage.py server
+        
+## Technologies Used
+* Python3.6
+* Flask
+* HTML
+* Bootstrap
+
+This application is developed using [Python3.6](https://www.python.org/doc/), [Flask](http://flask.palletsprojects.com/en/1.1.x/), [HTML](https://getbootstrap.com/) and [Bootstrap](https://getbootstrap.com/)
+
+
+## Support and Team
+Brian Major
+
+
+[Slack Me!](https://slack.com/intl/en-ke/)  @bryomajor
+
+
+### License
+
+* LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
