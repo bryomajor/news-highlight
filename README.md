@@ -4,7 +4,11 @@
 ## Description
 News Highlight is a web application that is meant to catch up busy individuals on current affairs happening all over the world.
 The website has the home page, that has a list of all sources of news sorted in categories.
-A user will have to click on `Read More` on a specific source to view artciles on the site
+A user will have to click on `Read More` on a specific source to view artciles on the site.
+
+
+## Live Demo
+Click http://news-highlight-mc21.herokuapp.com/ to visit the live site.
 
 
 ## Author
